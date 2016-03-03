@@ -1,5 +1,6 @@
 body { 
-      background-color: gray;
+      background-image: url(Grey-Texture-Background-and-Wallpaper-12.jpg); background-size: cover;
+	  background-repeat: no-repeat;
 }
 h1 { 
       color: yellow;
@@ -9,4 +10,7 @@ h1 {
 }
 .myClass { 
       color: yellow;
+}
+h3 {
+	color: white;
 }
